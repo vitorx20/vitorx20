@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Vitor! 👋
+# Eai galera👋, me chamo Vitor!
 
 
 ## 🛠 Habilidades
