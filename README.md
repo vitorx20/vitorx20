@@ -4,7 +4,7 @@
 
 🎓 Estudando pra virar um desenvolvedor front-end...
 
-🛠 Habilidades
+## 🛠 Habilidades
 apredendo HTML, CSS e JavaScript...
 
 👨‍🏫 Eu participo do projeto chamado favela ware, Uma iniciativa para treinar jovens programadores de 15 a 24 anos. [Clique aqui](https://favelaware.animahub.com.br/sobre)
