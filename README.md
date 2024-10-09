@@ -1,17 +1,18 @@
 
-## Eai galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, eu me chamo Vitor!
+
+## E aí, galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, eu me chamo Vitor!
 
 
-🎓 Estudando pra virar um desenvolvedor front-end...
+🎓 Estudando para virar um desenvolvedor full stack...
 
 ## 🛠 Habilidades
-apredendo HTML, CSS e JavaScript...
+Aprendendo HTML, CSS e JavaScript...
 
-👨‍🏫 Eu participo do projeto chamado favela ware, Uma iniciativa para treinar jovens programadores de 15 a 24 anos. [Clique aqui](https://favelaware.animahub.com.br/sobre)
+👨‍🏫 Eu participo do projeto chamado Favelaware, uma iniciativa para treinar jovens programadores de 15 a 24 anos. [Clique aqui](https://favelaware.animahub.com.br/sobre)
 
-🚀 Curiosidades sobre mim: interrese na musica pop e o fascinio ao mundo da tecnologia.
+🚀 Curiosidades sobre mim: interesse na música pop e o fascínio ao mundo da tecnologia.
 
-📊 Estou sempre buscando soluções atravéis da área Tec, e principalmente adoro um desafio.
+📊 Estou sempre buscando soluções através da área Tec. E, principalmente, adoro um desafio.
 
 <br><br>
 
