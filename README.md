@@ -35,11 +35,10 @@ Aprendendo HTML, CSS, JavaScript e outros...
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-<a href="https://github.com/vitorx20">
 
-<img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=vitorx20&show_icons=true&theme=dracula&hide_border=true&ring_color=2986cc&title_color=2986cc&icon_color=y&card_width=250"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorx20&show_icons=true&theme=dracula&hide_border=true&title_color=2986cc&icon_color=F7AE30"/>
 
-<img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorx20&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6&hide_border=true&card_width=300&title_color=2986cc&icon_color=F7AE30"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorx20&layout=compact&langs_count=6&theme=dracula&hide_border=true&title_color=2986cc"/>
 
 </div>
 
